@@ -112,6 +112,3 @@ todo = "deny"
 needless_borrow = "allow"
 needless_borrows_for_generic_args = "allow"
 
-
-[features]
-default = ["install-to-disk", "composefs-backend"]
